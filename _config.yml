@@ -1,7 +1,7 @@
 name: Oksana Brazell Photography
 favicon: null
-layout_spectrum: 0.4973437220323831
-typography_spectrum: 0.9192241472192109
+layout_spectrum: 0.18557
+typography_spectrum: 0.39003
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.045187114272266626
-  lightness: 0.8537439743522555
-  saturation: 0.20713980426080525
-  rhythmicContrast: 0.2718482846394181
+    - '#f4e2fc'
+    - '#c8bbce'
+    - '#a99fa8'
+    - '#696170'
+    - '#3d263e'
+  brandStrength: 0.6875
+  lightness: 0.0625
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
